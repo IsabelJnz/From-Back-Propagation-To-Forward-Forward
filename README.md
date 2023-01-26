@@ -1,1 +1,1 @@
-# From-Back-Propagration-To-Forward-Forward
+# From-Back-Propagation-To-Forward-Forward
